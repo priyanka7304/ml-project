@@ -8,7 +8,6 @@ random.seed(7)
 from india_data import get_all_locations
 from utils import compute_ess
 
-
 # ── K-Means ──────────────────────────────────────────────────────────────────
 class KMeans:
     def __init__(self, k=6, max_iters=150):

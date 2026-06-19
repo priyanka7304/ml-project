@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\MCA\SEM2\ml\smart_safe_route_india\smart_safe_route\venv
+set VIRTUAL_ENV=D:\MCA\SEM2\ml\ml-project\smart_safe_route_india\smart_safe_route\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
